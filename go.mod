@@ -1,4 +1,4 @@
-module github.com/dutchcoders/transfer.sh-web
+module https://github.com/hxntaish/upload.raven.ovh
 
 go 1.15
 
