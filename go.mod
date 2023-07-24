@@ -1,4 +1,4 @@
-module https://github.com/hxntaish/upload.raven.ovh
+module github.com/hxntaish/upload.raven.ovh
 
 go 1.15
 
